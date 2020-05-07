@@ -14,7 +14,7 @@ public class MyHelloWorldTest {
 	
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
-		System.out.println("Set Up Before Class - @BeforeAll");
+		System.out.println("Set Up Before Class - @BeforeAll"); 
 	}
 
 	@AfterClass
