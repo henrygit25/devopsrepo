@@ -4,7 +4,7 @@ public class HelloWorld {
 
 	public HelloWorld() {
 		System.out.println("Hello world");
-		System.out.println("GIT in eclipse");
+		System.out.println("GIT in eclipse"); 
 	}
 
 	public static void main(String[] args) {
