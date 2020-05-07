@@ -1,4 +1,4 @@
-package com.infy.java.basic;
+package com.devops.java.basic;
 
 public class HelloWorld {
 
