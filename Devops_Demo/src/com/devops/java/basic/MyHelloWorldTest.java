@@ -7,7 +7,7 @@ import org.junit.AfterClass;
 import org.junit.Before;
 import org.junit.BeforeClass;
 import org.junit.Test;
-import com.devops.java.basic.HelloWorld;
+import com.devops.java.basic.HelloWorld; 
 
 
 public class MyHelloWorldTest {
