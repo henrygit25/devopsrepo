@@ -1,4 +1,3 @@
-package com.infy.java.basic;
 
 public class Helloworld {
 	
