@@ -19,7 +19,7 @@ public class MyHelloWorldTest {
 
 	@AfterClass
 	public static void tearDownAfterClass() throws Exception {
-		System.out.println("Tear Down After Class - @AfterAll");
+		System.out.println("Tear Down After Class - @AfterAll"); 
 	}
 
 	@Before
