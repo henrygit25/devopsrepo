@@ -3,7 +3,7 @@
   <groupId>Devops_Demo</groupId>
   <artifactId>Devops_Demo</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Devops_Demo12</name>
+  <name>Devops_Demo</name>
   <description>This is sample devops demo</description>
   <build>
     <sourceDirectory>src</sourceDirectory>
