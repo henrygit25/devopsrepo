@@ -10,7 +10,7 @@ public class HelloWorld {
 	
 	public static int add(int a, int b) {
 	    int output = a+b;
-		return output
+		return output;
 		
 	}
 
